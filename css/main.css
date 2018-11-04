@@ -180,7 +180,7 @@ Primary use:
 .m1-txt1 {
   font-family: Myriad;
   font-size: 16px;
-  color: #57b846;
+  color: #41210A;
   line-height: 1.333333;
 }
 
@@ -195,7 +195,7 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .l1-txt1 {
-  font-family: Poppins-Regular;
+  font-family: Myriad;
   font-size: 36px;
   color: #fff;
   line-height: 1.333333;
@@ -329,11 +329,7 @@ Primary use:
   height: 100%;
   top: 0;
   left: 0;
-  background: #7579ff;
-  background: -webkit-linear-gradient(top, #b224ef, #7579ff);
-  background: -o-linear-gradient(top, #b224ef, #7579ff);
-  background: -moz-linear-gradient(top, #b224ef, #7579ff);
-  background: linear-gradient(top, #b224ef, #7579ff);
+  background: #41210A;
   -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
@@ -408,6 +404,14 @@ hr.divider {
     margin-right: auto;
     display: block;
     max-width: 300px;
+}
+
+
+.photo {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 100%;
 }
 
 
