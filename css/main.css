@@ -414,6 +414,14 @@ hr.divider {
   max-width: 100%;
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: #999999;
+}
+
 
 /*---------------------------------------------*/
 .how-social {
